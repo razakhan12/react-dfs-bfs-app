@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-dfs-bfs-app/static/css/main.fb7bb214.chunk.css",
+    "main.js": "/react-dfs-bfs-app/static/js/main.0b04bc33.chunk.js",
+    "main.js.map": "/react-dfs-bfs-app/static/js/main.0b04bc33.chunk.js.map",
+    "runtime-main.js": "/react-dfs-bfs-app/static/js/runtime-main.32c06243.js",
+    "runtime-main.js.map": "/react-dfs-bfs-app/static/js/runtime-main.32c06243.js.map",
+    "static/js/2.4e8de5b8.chunk.js": "/react-dfs-bfs-app/static/js/2.4e8de5b8.chunk.js",
+    "static/js/2.4e8de5b8.chunk.js.map": "/react-dfs-bfs-app/static/js/2.4e8de5b8.chunk.js.map",
+    "index.html": "/react-dfs-bfs-app/index.html",
+    "precache-manifest.da9fab8bd9d55d245ff66de9fd33e5a2.js": "/react-dfs-bfs-app/precache-manifest.da9fab8bd9d55d245ff66de9fd33e5a2.js",
+    "service-worker.js": "/react-dfs-bfs-app/service-worker.js",
+    "static/css/main.fb7bb214.chunk.css.map": "/react-dfs-bfs-app/static/css/main.fb7bb214.chunk.css.map",
+    "static/js/2.4e8de5b8.chunk.js.LICENSE.txt": "/react-dfs-bfs-app/static/js/2.4e8de5b8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-dfs-bfs-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32c06243.js",
+    "static/js/2.4e8de5b8.chunk.js",
+    "static/css/main.fb7bb214.chunk.css",
+    "static/js/main.0b04bc33.chunk.js"
+  ]
+}
